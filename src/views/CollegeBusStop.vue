@@ -125,7 +125,7 @@ export default {
 
    const fetchCurrentTime = async () => {
   try {
-    const response = await axios.get('http://worldtimeapi.org/api/timezone/Asia/Kolkata');
+    const response = await axios.get('httpS://worldtimeapi.org/api/timezone/Asia/Kolkata');
     currentTime.value = new Date(response.data.datetime).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
   } catch (error) {
     if (error.response) {
