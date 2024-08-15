@@ -123,14 +123,25 @@ export default {
       return `${hour12}:${minutes.toString().padStart(2, '0')} ${period}`;
     };
 
-    const fetchCurrentTime = async () => {
-      try {
-        const response = await axios.get('http://worldtimeapi.org/api/timezone/Asia/Kolkata');
-        currentTime.value = new Date(response.data.datetime).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
-      } catch (error) {
-        console.error('Error fetching current time:', error);
-      }
-    };
+   const fetchCurrentTime = async () => {
+  try {
+    const response = await axios.get('http://worldtimeapi.org/api/timezone/Asia/Kolkata');
+    currentTime.value = new Date(response.data.datetime).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
+  } catch (error) {
+    if (error.response) {
+      // Server responded with a status code other than 2xx
+      console.error('Server Error:', error.response.data);
+    } else if (error.request) {
+      // No response was received
+      console.error('Network Error:', error.request);
+    } else {
+      // Other errors
+      console.error('Error:', error.message);
+    }
+    // Optionally set an error message for user feedback
+  }
+};
+
 
     const searchBusStop = (query) => {
       searchQuery.value = query;
