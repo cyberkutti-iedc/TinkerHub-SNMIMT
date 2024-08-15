@@ -1,0 +1,18 @@
+{
+    "collegeBusStopTitle": "Maliankara College Bus Stop - Bus ETA ",
+    "collegeBusStopSubtitle": "Bus ETA for Kodunallur, Ernakulam, and Pravour | Developed by TinkerHub SNMIMT",
+    "routeToKodunallur": "To Kodunallur",
+    "routeToErnakulam": "To Ernakulam",
+    "routeToPravour": "To Pravour",
+    "privateBus": "Private Bus",
+    "ksrtcBus": "KSRTC Bus",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "english": "English",
+    "malayalam": "മലയാളം",
+    "currentTimeLabel": "Current Time in Asia/Kolkata",
+    "allBusTimes": "All Bus Times",
+    "searchBus": "Search Bus",
+    "comingBuses": "Coming Buses"
+  }
+  

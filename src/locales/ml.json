@@ -1,0 +1,18 @@
+{
+    "collegeBusStopTitle": "കോളേജ് ബസ് സ്റ്റോപ്പ് - ബസ് എത്തുന്ന സമയം",
+    "collegeBusStopSubtitle": "കോഡുനല്ലൂർ, എറണാകുളം, പ്രാവൂർ എന്നിവിടങ്ങളിലേക്കുള്ള അവസാനത്തെ ബസ് എത്തുന്ന സമയങ്ങൾ കണ്ടെത്തുക",
+    "routeToKodunallur": "കോഡുനല്ലൂരിലേക്ക്",
+    "routeToErnakulam": "എറണാകുളത്തിലേക്ക്",
+    "routeToPravour": "പ്രാവൂർ",
+    "privateBus": "പ്രൈവറ്റ് ബസ്",
+    "ksrtcBus": "KSRTC ബസ്",
+    "lightMode": "ലൈറ്റ് മോഡ്",
+    "darkMode": "ഡാർക്ക് മോഡ്",
+    "english": "ഇംഗ്ലീഷ്",
+    "malayalam": "മലയാളം",
+    "currentTimeLabel": "ആഷ്യാ/കൊൽക്കത്തയിലെ നിലവിലെ സമയം",
+    "allBusTimes": "എല്ലാ ബസ് സമയങ്ങളും",
+    "searchBus": "ബസ് തിരയുക",
+    "comingBuses": "കീഴെ വരുന്നത്"
+  }
+  

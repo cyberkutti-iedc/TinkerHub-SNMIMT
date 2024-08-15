@@ -1,0 +1,416 @@
+[
+    {
+        "id": 1,
+        "route": "TO KODUGALLUR",
+        "bus": "Rohinikkannan",
+        "arrivalTime": "09:30"
+    },
+    {
+        "id": 2,
+        "route": "TO KODUGALLUR",
+        "bus": "SN Transport",
+        "arrivalTime": "09:35"
+    },
+    {
+        "id": 3,
+        "route": "TO KODUGALLUR",
+        "bus": "Sowparnika",
+        "arrivalTime": "09:46"
+    },
+    {
+        "id": 4,
+        "route": "TO KODUGALLUR",
+        "bus": "Sabeena",
+        "arrivalTime": "10:05"
+    },
+    {
+        "id": 5,
+        "route": "TO KODUGALLUR",
+        "bus": "Lakshmi",
+        "arrivalTime": "10:30"
+    },
+    {
+        "id": 6,
+        "route": "TO KODUGALLUR",
+        "bus": "Samrat",
+        "arrivalTime": "10:37"
+    },
+    {
+        "id": 7,
+        "route": "TO KODUGALLUR",
+        "bus": "Sabeena",
+        "arrivalTime": "11:05"
+    },
+    {
+        "id": 8,
+        "route": "TO KODUGALLUR",
+        "bus": "Cheenikkas",
+        "arrivalTime": "11:40"
+    },
+    {
+        "id": 9,
+        "route": "TO KODUGALLUR",
+        "bus": "Sabeena",
+        "arrivalTime": "11:45"
+    },
+    {
+        "id": 10,
+        "route": "TO KODUGALLUR",
+        "bus": "KSRTC",
+        "arrivalTime": "11:55"
+    },
+    {
+        "id": 11,
+        "route": "TO KODUGALLUR",
+        "bus": "Kalidassan",
+        "arrivalTime": "12:20"
+    },
+    {
+        "id": 12,
+        "route": "TO KODUGALLUR",
+        "bus": "KSRTC",
+        "arrivalTime": "12:45"
+    },
+    {
+        "id": 13,
+        "route": "TO KODUGALLUR",
+        "bus": "Sree Bhadra",
+        "arrivalTime": "12:50"
+    },
+    {
+        "id": 14,
+        "route": "TO KODUGALLUR",
+        "bus": "SN Transport",
+        "arrivalTime": "13:05"
+    },
+    {
+        "id": 15,
+        "route": "TO KODUGALLUR",
+        "bus": "Lakshmi",
+        "arrivalTime": "13:05"
+    },
+    {
+        "id": 16,
+        "route": "TO KODUGALLUR",
+        "bus": "Rohini Kannan",
+        "arrivalTime": "13:05"
+    },
+    {
+        "id": 17,
+        "route": "TO KODUGALLUR",
+        "bus": "KSRTC",
+        "arrivalTime": "14:05"
+    },
+    {
+        "id": 18,
+        "route": "TO KODUGALLUR",
+        "bus": "Sowparnika",
+        "arrivalTime": "14:34"
+    },
+    {
+        "id": 19,
+        "route": "TO KODUGALLUR",
+        "bus": "Sabeena",
+        "arrivalTime": "14:46"
+    },
+    {
+        "id": 20,
+        "route": "TO KODUGALLUR",
+        "bus": "St. Savio",
+        "arrivalTime": "15:05"
+    },
+    {
+        "id": 21,
+        "route": "TO KODUGALLUR",
+        "bus": "Samrat",
+        "arrivalTime": "15:19"
+    },
+    {
+        "id": 22,
+        "route": "TO KODUGALLUR",
+        "bus": "Infant Jesus",
+        "arrivalTime": "15:28"
+    },
+    {
+        "id": 23,
+        "route": "TO KODUGALLUR",
+        "bus": "KSRTC",
+        "arrivalTime": "15:32"
+    },
+    {
+        "id": 24,
+        "route": "TO KODUGALLUR",
+        "bus": "Cheenikkas",
+        "arrivalTime": "16:18"
+    },
+    {
+        "id": 25,
+        "route": "TO KODUGALLUR",
+        "bus": "Kalidassan",
+        "arrivalTime": "16:20"
+    },
+    {
+        "id": 26,
+        "route": "TO KODUGALLUR",
+        "bus": "SN Transport",
+        "arrivalTime": "16:56"
+    },
+    {
+        "id": 27,
+        "route": "TO KODUGALLUR",
+        "bus": "Rohinikannan",
+        "arrivalTime": "17:05"
+    },
+    {
+        "id": 28,
+        "route": "TO KODUGALLUR",
+        "bus": "KSRTC",
+        "arrivalTime": "17:25"
+    },
+    {
+        "id": 29,
+        "route": "TO KODUGALLUR",
+        "bus": "Sabeena",
+        "arrivalTime": "17:35"
+    },
+    {
+        "id": 30,
+        "route": "TO KODUGALLUR",
+        "bus": "Infant Jesus",
+        "arrivalTime": "17:52"
+    },
+    {
+        "id": 31,
+        "route": "TO KODUGALLUR",
+        "bus": "Lakshmi",
+        "arrivalTime": "18:30"
+    },
+    {
+        "id": 32,
+        "route": "TO KODUGALLUR",
+        "bus": "Sowparnika",
+        "arrivalTime": "18:33"
+    },
+    {
+        "id": 33,
+        "route": "TO KODUGALLUR",
+        "bus": "KSRTC",
+        "arrivalTime": "18:39"
+    },
+    {
+        "id": 34,
+        "route": "TO KODUGALLUR",
+        "bus": "Sree Bhadra",
+        "arrivalTime": "18:48"
+    },
+    {
+        "id": 35,
+        "route": "TO KODUGALLUR",
+        "bus": "KSRTC",
+        "arrivalTime": "19:02"
+    },
+    {
+        "id": 36,
+        "route": "TO KODUGALLUR",
+        "bus": "KSRTC",
+        "arrivalTime": "19:05"
+    },
+    {
+        "id": 37,
+        "route": "TO KODUGALLUR",
+        "bus": "KSRTC",
+        "arrivalTime": "19:10"
+    },
+    {
+        "id": 38,
+        "route": "TO ERNAKULAM",
+        "bus": "St. Savio",
+        "arrivalTime": "09:00"
+    },
+    {
+        "id": 39,
+        "route": "TO ERNAKULAM",
+        "bus": "Sabeena",
+        "arrivalTime": "09:30"
+    },
+    {
+        "id": 40,
+        "route": "TO ERNAKULAM",
+        "bus": "Sabeena",
+        "arrivalTime": "10:00"
+    },
+    {
+        "id": 41,
+        "route": "TO ERNAKULAM",
+        "bus": "Infant Jesus",
+        "arrivalTime": "10:45"
+    },
+    {
+        "id": 42,
+        "route": "TO ERNAKULAM",
+        "bus": "Rohini Kannan",
+        "arrivalTime": "11:20"
+    },
+    {
+        "id": 43,
+        "route": "TO ERNAKULAM",
+        "bus": "SN Transport",
+        "arrivalTime": "11:30"
+    },
+    {
+        "id": 44,
+        "route": "TO ERNAKULAM",
+        "bus": "Sowparnika",
+        "arrivalTime": "12:10"
+    },
+    {
+        "id": 45,
+        "route": "TO ERNAKULAM",
+        "bus": "SN Transport",
+        "arrivalTime": "12:41"
+    },
+    {
+        "id": 46,
+        "route": "TO ERNAKULAM",
+        "bus": "Sree Bhadra",
+        "arrivalTime": "13:05"
+    },
+    {
+        "id": 47,
+        "route": "TO ERNAKULAM",
+        "bus": "Cheenikkas",
+        "arrivalTime": "13:15"
+    },
+    {
+        "id": 48,
+        "route": "TO ERNAKULAM",
+        "bus": "Sree Bhadra",
+        "arrivalTime": "13:30"
+    },
+    {
+        "id": 49,
+        "route": "TO ERNAKULAM",
+        "bus": "Rohinikannan",
+        "arrivalTime": "14:00"
+    },
+    {
+        "id": 50,
+        "route": "TO ERNAKULAM",
+        "bus": "SN Transport",
+        "arrivalTime": "14:15"
+    },
+    {
+        "id": 51,
+        "route": "TO ERNAKULAM",
+        "bus": "KSRTC",
+        "arrivalTime": "14:49"
+    },
+    {
+        "id": 52,
+        "route": "TO ERNAKULAM",
+        "bus": "Sabeena",
+        "arrivalTime": "15:10"
+    },
+    {
+        "id": 53,
+        "route": "TO ERNAKULAM",
+        "bus": "KSRTC",
+        "arrivalTime": "16:29"
+    },
+    {
+        "id": 54,
+        "route": "TO ERNAKULAM",
+        "bus": "Sabeena",
+        "arrivalTime": "17:00"
+    },
+    {
+        "id": 55,
+        "route": "TO ERNAKULAM",
+        "bus": "Sabeena",
+        "arrivalTime": "17:00"
+    },
+    {
+        "id": 56,
+        "route": "TO ERNAKULAM",
+        "bus": "Cheenikkas",
+        "arrivalTime": "17:08"
+    },
+    {
+        "id": 57,
+        "route": "TO ERNAKULAM",
+        "bus": "Rohinikannan",
+        "arrivalTime": "18:00"
+    },
+    {
+        "id": 58,
+        "route": "TO ERNAKULAM",
+        "bus": "SN Transport",
+        "arrivalTime": "18:20"
+    },
+    {
+        "id": 59,
+        "route": "TO ERNAKULAM",
+        "bus": "Sabeena",
+        "arrivalTime": "19:00"
+    },
+    {
+        "id": 60,
+        "route": "TO ERNAKULAM",
+        "bus": "Sowparnika",
+        "arrivalTime": "19:27"
+    },
+    {
+        "id": 61,
+        "route": "TO PARAVUR",
+        "bus": "Shankaranarayanan",
+        "arrivalTime": "09:00"
+    },
+    {
+        "id": 62,
+        "route": "TO PARAVUR",
+        "bus": "Lakshmi",
+        "arrivalTime": "10:10"
+    },
+    {
+        "id": 63,
+        "route": "TO PARAVUR",
+        "bus": "Unnikuttan",
+        "arrivalTime": "10:20"
+    },
+    {
+        "id": 64,
+        "route": "TO PARAVUR",
+        "bus": "Unnikuttan",
+        "arrivalTime": "12:20"
+    },
+    {
+        "id": 65,
+        "route": "TO PARAVUR",
+        "bus": "Lakshmi",
+        "arrivalTime": "15:00"
+    },
+    {
+        "id": 66,
+        "route": "TO PARAVUR",
+        "bus": "Unnikuttan",
+        "arrivalTime": "15:05"
+    },
+    {
+        "id": 67,
+        "route": "TO PARAVUR",
+        "bus": "Unnikuttan",
+        "arrivalTime": "17:15"
+    },
+    {
+        "id": 68,
+        "route": "TO PARAVUR",
+        "bus": "Shankaranarayanan",
+        "arrivalTime": "17:50"
+    },
+    {
+        "id": 69,
+        "route": "TO PARAVUR",
+        "bus": "KSRTC",
+        "arrivalTime": "19:20"
+    }
+]
