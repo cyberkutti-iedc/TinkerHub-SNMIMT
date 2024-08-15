@@ -1,6 +1,5 @@
-```markdown
 # TinkerHub SNMIMT Official Webpage
-
+```markdown
 Welcome to the official webpage for TinkerHub SNMIMT! This project includes the TinkerHub SNMIMT official website and a specialized College Bus Stop ETA (Estimated Time of Arrival) webpage. Developed in 2024 by TinkerHub SNMIMT students, this application is built using the Vue.js framework and Tailwind CSS.
 
 ## Features
@@ -95,5 +94,3 @@ For any questions or inquiries, please contact us at [tinkerhub@snmimt.edu.in](m
 ---
 
 **Developed by TinkerHub SNMIMT Students, 2024**
-
-```
